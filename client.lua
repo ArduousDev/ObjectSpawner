@@ -1,4 +1,4 @@
---[ Object spawner by Mike Hawk aka DementedDude ]
+--[ Object spawner by ArduousGamer/Dev ]
 --[ Ped restriction by Xander1998 ]
 --[ NativeUILua menu by Frazzle @ https://forum.fivem.net/t/release-dev-nativeuilua/98318 ]
 --[ Coroner stretcher provided by majorpaine2015 @ http://www.lcpdfr.com/files/file/18046-body-bags/ ]
