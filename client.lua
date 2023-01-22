@@ -87,7 +87,7 @@ Citizen.CreateThread(function()
 end)
 
 function SpawnObject(objectname)
-    local Player = GetPlayerPed(-1)
+    local Player = PlayerPedId()
     local x, y, z = table.unpack(GetEntityCoords(Player, true))
     local heading = GetEntityHeading(Player)
    
